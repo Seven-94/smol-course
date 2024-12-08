@@ -6,7 +6,7 @@ Dans ce module, nous allons explorer deux sujets : 1) les modèles de conversati
 
 ## 1️⃣ Modèles de conversation
 
-Les modèles de conversation structurent les interactions entre les utilisateurs et les modèles d'IA, garantissant des réponses cohérentes et adaptées au contexte. Ils comprennent des éléments tels que les invites du système et les messages basés sur le rôle. Pour plus d'informations, consultez le site [Chat Templates](./chat_templates.md) section.
+Les modèles de conversation structurent les interactions entre les utilisateurs et les modèles d'IA, garantissant des réponses cohérentes et adaptées au contexte. Ils comprennent des éléments tels que les invites du système et les messages basés sur le rôle. Pour plus d'informations, consultez la section [Chat Templates](./chat_templates.md).
 
 ## 2️⃣ Fine-Tuning Supervisé
 
